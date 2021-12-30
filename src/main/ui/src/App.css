@@ -1,0 +1,69 @@
+.logout {
+  align-items: right;
+  background-color: #76a9ec;
+}
+
+.app-header {
+  background-color: #eceff3;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-top: 20px;
+}
+
+.app-category-link {
+  color: #053d4d;
+}
+
+.app-subcategory-link {
+  color: #5f767c;
+  font-size: calc(6px + 2vmin);
+  padding-right: 10px;
+}
+
+.adv-page {
+  padding-top: 10px;
+  background-color: #eceff3;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.adv-card {
+  padding: 0px 8px;
+  border-style: groove;
+  background-color: white;
+}
+.adv-title {
+  color: rgb(11, 4, 105);
+}
+
+.adv-loc {
+  color: rgb(6, 4, 31);
+  font-style: italic;
+}
+
+.adv-desc {
+  color: rgb(17, 7, 160);
+}
+
+.app-login {
+  background-color: #eceff3;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(17, 7, 160);
+}
+
+.alert {
+  color: rgb(179, 9, 9);
+  font-size: 16px;
+}
