@@ -15,6 +15,7 @@ import java.util.List;
 @RestController
 @RequestMapping("api/")
 public class AdvertisementController {
+	// Controller
     @Autowired
     private CategoryService categoryService;
 

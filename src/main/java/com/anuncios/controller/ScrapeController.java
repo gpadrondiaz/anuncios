@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("advertisement")
 public class ScrapeController {
+	
     @Autowired
     private ScraperService scraperService;
 
